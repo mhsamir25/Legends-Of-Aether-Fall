@@ -17,5 +17,5 @@
 <p>Choose your hero, choose your villain, and fight to survive. Use your strategic mind to decide whether to attack or unleash powerful special moves — all while managing your power level and dodging deadly enemy abilities.</p>
 
 <hr>
-<p><em>Built entirely in Java using VS Code, this project was originally a university assignment and later expanded as a full mini-game to showcase mastery of OOP.</em></p>
+<p><em>Built entirely in Java using VS Code, this project was a university assignment.</em></p>
 
