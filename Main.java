@@ -1,7 +1,6 @@
 /* ID: 230042101
  * Name: Mahmudul Hossain Samir
  */
-//JUST FELT LIKE GIVING A RANDOM COMMENT   
 import java.util.Scanner;
 
 public class Main {
